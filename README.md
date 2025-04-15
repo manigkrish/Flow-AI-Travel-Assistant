@@ -38,7 +38,7 @@ The UI was implemented based on Figma designs.
 - Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flow-app.git
+git clone https://github.com/manigkrish/Flow-AI-Travel-Assistant.git
 ```
 
 - Install dependencies
